@@ -4,10 +4,10 @@ Coding Interview problems
 
 ## Data Ingestor
 
-Write an API that can accept different payloads of data with multiple formats (i.e. csv, yaml, json)
+We have this micro-service that can accept JSON data from a city. You can imagine it might store this data in a database or do some processing on it as part of an ML pipeline. Currently it only can accept data in a JSON format as well as return it in a JSON format. We have customers that want to be able to send and receive the data in the CSV format as well.
 
-Start with an API that can accept a single type of data and stores it inefficiently in that format. It can also return data in that type.
+Our job is to extend this service to be able to accept and return CSV data, as well as write unit-tests for it.
 
-Extend the API to accept two other types of data, and also to output in any of the supported ingestion formats.
+### Stretch goals
 
-Write unit tests.
+- We internally use the Unix epoch time for our timestamps, so we'd like to convert the "time" column into that format internally.
