@@ -1,0 +1,258 @@
+[
+  {
+    "time": "1972-07-12T16:57:49.935Z",
+    "city": "Garnet",
+    "country": "Central African Republic",
+    "population": 8367726,
+    "latitude": -47.97173,
+    "longitude": 77.69925
+  },
+  {
+    "time": "2003-01-13T01:00:37.773Z",
+    "city": "Konterra",
+    "country": "Yemen",
+    "population": 5199516,
+    "latitude": -30.16454,
+    "longitude": -52.28351
+  },
+  {
+    "time": "2005-07-30T11:44:55.285Z",
+    "city": "Brecon",
+    "country": "Marshall Islands",
+    "population": 9844122,
+    "latitude": -72.49663,
+    "longitude": -67.75627
+  },
+  {
+    "time": "1970-10-30T13:57:54.524Z",
+    "city": "Kingstowne",
+    "country": "Paraguay",
+    "population": 1896638,
+    "latitude": -19.38653,
+    "longitude": -67.52333
+  },
+  {
+    "time": "1971-08-11T13:42:32.286Z",
+    "city": "Linganore",
+    "country": "Armenia",
+    "population": 3812743,
+    "latitude": 88.47227,
+    "longitude": -41.64421
+  },
+  {
+    "time": "2008-02-11T01:13:01.712Z",
+    "city": "Gadsden",
+    "country": "Albania",
+    "population": 5043102,
+    "latitude": -27.49452,
+    "longitude": -33.97448
+  },
+  {
+    "time": "1983-01-15T16:34:11.938Z",
+    "city": "Corriganville",
+    "country": "Austria",
+    "population": 4834572,
+    "latitude": -42.94154,
+    "longitude": 29.81567
+  },
+  {
+    "time": "1978-02-06T21:21:14.896Z",
+    "city": "Genoa",
+    "country": "Mongolia",
+    "population": 5404668,
+    "latitude": -77.04644,
+    "longitude": -80.89174
+  },
+  {
+    "time": "1978-07-30T03:36:42.315Z",
+    "city": "Lithium",
+    "country": "East Timor",
+    "population": 2824227,
+    "latitude": 58.04495,
+    "longitude": -17.19435
+  },
+  {
+    "time": "2017-10-31T15:56:17.823Z",
+    "city": "Cecilia",
+    "country": "Venezuela",
+    "population": 8710292,
+    "latitude": -10.49146,
+    "longitude": 80.32577
+  },
+  {
+    "time": "1974-10-01T21:38:17.748Z",
+    "city": "Stewartville",
+    "country": "Egypt",
+    "population": 8633153,
+    "latitude": -28.10914,
+    "longitude": -13.91565
+  },
+  {
+    "time": "2007-06-27T17:28:33.125Z",
+    "city": "Yogaville",
+    "country": "Bahrain",
+    "population": 7165976,
+    "latitude": -19.91715,
+    "longitude": -74.02639
+  },
+  {
+    "time": "1999-06-03T07:31:01.665Z",
+    "city": "Rushford",
+    "country": "Heard and McDonald Islands",
+    "population": 4023832,
+    "latitude": -3.17852,
+    "longitude": 46.06507
+  },
+  {
+    "time": "1997-05-26T22:33:17.223Z",
+    "city": "Cashtown",
+    "country": "Hungary",
+    "population": 3701251,
+    "latitude": -1.80194,
+    "longitude": -26.04151
+  },
+  {
+    "time": "1985-11-05T01:05:53.769Z",
+    "city": "Tolu",
+    "country": "South Africa",
+    "population": 2805875,
+    "latitude": 9.98963,
+    "longitude": 71.27288
+  },
+  {
+    "time": "2017-10-28T23:17:32.267Z",
+    "city": "Brethren",
+    "country": "Denmark",
+    "population": 8820101,
+    "latitude": 84.82331,
+    "longitude": -88.47466
+  },
+  {
+    "time": "2020-03-17T01:42:43.007Z",
+    "city": "Westwood",
+    "country": "Slovenia",
+    "population": 259012,
+    "latitude": -51.61187,
+    "longitude": -0.83882
+  },
+  {
+    "time": "2018-04-26T06:52:00.153Z",
+    "city": "Finzel",
+    "country": "French Polynesia",
+    "population": 9402133,
+    "latitude": -68.89639,
+    "longitude": 74.41364
+  },
+  {
+    "time": "1979-11-10T22:26:45.016Z",
+    "city": "Adamstown",
+    "country": "Israel",
+    "population": 3167071,
+    "latitude": 30.10242,
+    "longitude": -75.07935
+  },
+  {
+    "time": "2017-10-14T07:35:49.309Z",
+    "city": "Richville",
+    "country": "Iceland",
+    "population": 9160660,
+    "latitude": 31.64023,
+    "longitude": 88.99296
+  },
+  {
+    "time": "1985-11-12T01:15:00.047Z",
+    "city": "Wyano",
+    "country": "Cook Islands",
+    "population": 4848667,
+    "latitude": 48.72731,
+    "longitude": 58.20622
+  },
+  {
+    "time": "2020-06-30T22:52:55.244Z",
+    "city": "Guthrie",
+    "country": "Kuwait",
+    "population": 1992438,
+    "latitude": -61.30879,
+    "longitude": -70.03185
+  },
+  {
+    "time": "2020-04-03T03:03:31.006Z",
+    "city": "Gardiner",
+    "country": "Ukraine",
+    "population": 7233232,
+    "latitude": 11.95606,
+    "longitude": -74.16473
+  },
+  {
+    "time": "2018-07-02T13:51:10.620Z",
+    "city": "Harmon",
+    "country": "Seychelles",
+    "population": 2867582,
+    "latitude": -55.57821,
+    "longitude": 10.06643
+  },
+  {
+    "time": "1978-07-07T19:50:36.551Z",
+    "city": "Faywood",
+    "country": "Korea (North)",
+    "population": 7899062,
+    "latitude": -77.70104,
+    "longitude": 9.80231
+  },
+  {
+    "time": "1980-05-02T00:49:57.422Z",
+    "city": "Bowie",
+    "country": "Bosnia and Herzegovina",
+    "population": 1343729,
+    "latitude": -48.55562,
+    "longitude": 55.02691
+  },
+  {
+    "time": "2015-04-08T17:03:23.176Z",
+    "city": "Weedville",
+    "country": "Romania",
+    "population": 9993721,
+    "latitude": 26.65413,
+    "longitude": 85.69309
+  },
+  {
+    "time": "1986-06-10T05:18:45.177Z",
+    "city": "Yettem",
+    "country": "Canada",
+    "population": 4390291,
+    "latitude": -62.21002,
+    "longitude": -63.53643
+  },
+  {
+    "time": "1971-03-04T17:55:41.044Z",
+    "city": "Jugtown",
+    "country": "Western Sahara",
+    "population": 5069800,
+    "latitude": 6.03323,
+    "longitude": -71.14122
+  },
+  {
+    "time": "1996-07-24T10:14:12.593Z",
+    "city": "Loveland",
+    "country": "Tanzania",
+    "population": 5849182,
+    "latitude": 78.27537,
+    "longitude": -43.13799
+  },
+  {
+    "time": "1971-08-01T14:59:39.924Z",
+    "city": "Blandburg",
+    "country": "Jordan",
+    "population": 3483105,
+    "latitude": -67.47277,
+    "longitude": 85.34941
+  },
+  {
+    "time": "1992-06-25T20:34:19.451Z",
+    "city": "Dorneyville",
+    "country": "Pitcairn",
+    "population": 2285688,
+    "latitude": 57.18628,
+    "longitude": -32.86721
+  }
+]
