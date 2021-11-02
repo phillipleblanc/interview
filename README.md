@@ -11,3 +11,9 @@ Our job is to extend this service to be able to accept and return CSV data, as w
 ### Stretch goals
 
 - We internally use the Unix epoch time for our timestamps, so we'd like to convert the "time" column into that format internally.
+
+## Setup
+
+```sh
+pip install -r requirements.txt
+```
